@@ -8,11 +8,16 @@ h1 {
     text-align: center;
 }
 
-p {
+h2 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.heading-para {
     color: white;
     font-size: 15px;
     text-align: center;
-
 }
 
 .top-back-banner {
@@ -33,7 +38,53 @@ p {
 }
 
 .donation-center {
-    display: flex;
+
     text-align: center;
     justify-content: center;
+    margin-bottom: 100px;
+}
+
+.donation-amount {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700px;
+
+}
+
+.second-donation {
+    font-size: 17px;
+    text-align: center;
+    margin-top: 20px;
+
+
+}
+
+.upper-donation {
+    color: darkgray;
+    font-size: small;
+
+}
+
+.flexible-container {
+    display: flex;
+    margin: 150px;
+
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.donation-plan {
+    font-weight: 400;
+    text-align: center;
+}
+
+.donation-column {
+    color: dimgray;
+    width: 70%;
+    margin-right: 2%;
+    margin-left: 2%;
+
 }
