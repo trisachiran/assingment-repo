@@ -88,3 +88,15 @@ h3 {
     margin-left: 2%;
 
 }
+
+.flexible-part {
+    display: flex;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+.flexible-mission {
+    display: flex;
+    margin-right: 150px;
+    text-align: center;
+}
